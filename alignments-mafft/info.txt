@@ -1,2 +1,6 @@
-alignments were made with mafft, default options 
+alignments were made with mafft. Command: 
+for f in *.mfa; do linsi --clustalout $f > ${f%.*}.aln; done
+
+in clustal format
+
 14/06
