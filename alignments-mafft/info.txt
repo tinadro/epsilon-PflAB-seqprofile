@@ -1,0 +1,2 @@
+alignments were made with mafft, default options 
+14/06

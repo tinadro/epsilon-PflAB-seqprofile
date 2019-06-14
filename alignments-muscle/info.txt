@@ -1,0 +1,2 @@
+alignments were made with muscle, default options 
+14/06
